@@ -1,0 +1,6 @@
+[submodule "adserver"]
+	path = adserver
+	url = git@github.com:adlayer/adserver-api-docs.git
+[submodule "tracker"]
+	path = tracker
+	url = git@github.com:adlayer/tracker-api-docs.git
